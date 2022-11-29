@@ -1,0 +1,23 @@
+HTML валидатор
+    https://validator.w3.org/#validate_by_input
+
+Сокращения для Emmet
+    https://docs.emmet.io/cheat-sheet/
+
+Список html тегов
+    https://html5book.ru/html-tags/
+
+Руководство по html
+    https://developer.mozilla.org/ru/docs/Web/HTML
+
+конспект
+    https://helpful-leather-d10.notion.site/2-CSS-HTML-7a828b13d58b4dbdbb9f532d57c52a50
+
+Расширение для vscode для валидации html кода
+    https://marketplace.visualstudio.com/items?itemName=Umoxfo.vscode-w3cvalidation
+
+Таблица символов unicode
+    http://foxtools.ru/Unicode
+
+Расширения для vscode
+    https://www.google.com/search?q=popular+extensions+for+vscode+frontend&oq=popular+extensions+for+vscode+frontend&aqs=chrome..69i57.10163j0j7&sourceid=chrome&ie=UTF-8

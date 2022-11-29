@@ -1,0 +1,19 @@
+.myclass{
+    width: 20vw;
+}
+html{
+    background-color: rgb(220, 249, 168);
+}
+h1{
+    background-color: rgb(148, 111, 235);
+    color: burlywood;
+}
+a{
+    text-shadow: 2px 2px 2px rgb(245, 96, 10);
+    color: rgb(80, 127, 255);
+    font-size: 50px;
+
+}
+
+
+
