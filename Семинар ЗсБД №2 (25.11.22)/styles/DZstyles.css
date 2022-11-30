@@ -1,0 +1,29 @@
+html{
+    background-color: rgb(227, 252, 140);
+    font-size: 20px; /*размер текста*/ 
+}
+h1{
+    background-color: rgb(230, 162, 15);/*подсветка "Тигры"*/
+    color: burlywood;
+    font-size: 50px; /*размер "Тигры"*/ 
+}
+h2{
+    background-color: rgb(148, 111, 235);
+    color: burlywood;
+    font-size: 30px; /*размер текста*/ 
+}
+img{
+    display: flex; 
+    width: 60vw;  /*размер картинки*/
+    margin: 0 auto;  /*отступы снаружи блока(картинка посередине)*/
+}
+a{
+    text-shadow: 2px 2px 2px rgb(245, 10, 41);/*подсветка ссылок*/ 
+    color: rgb(105, 21, 214); /*цвет ссылок*/ 
+}
+
+
+
+
+
+

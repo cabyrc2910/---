@@ -1,5 +1,5 @@
 .myclass{
-    width: 20vw;
+    width: 40vw; /*размер картинки*/ 
 }
 html{
     background-color: rgb(220, 249, 168);
@@ -10,8 +10,8 @@ h1{
 }
 a{
     text-shadow: 2px 2px 2px rgb(245, 96, 10);
-    color: rgb(80, 127, 255);
-    font-size: 50px;
+    color: rgb(80, 255, 159);
+    font-size: 30px; /*Спросите у яндекса*/ 
 
 }
 

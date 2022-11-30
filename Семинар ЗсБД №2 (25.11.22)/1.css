@@ -1,0 +1,43 @@
+html{
+    font-size: 15x;  /*px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту*/ 
+    font-family: 'Roboto', sans-serif;       /*шрифт*/ 
+    background-color: rgb(206, 217, 228);    /*заливка вокруг*/
+}
+h1{
+    background-color: rgb(148, 111, 235);
+    color: burlywood;
+    font-size: 20px;  /*Картинка тигры*/ 
+    width: 10vw; /*Картинка*/ 
+}
+h2{
+    background-color: rgb(148, 111, 235);
+    color: burlywood;
+}
+p{    /* 'p'- применимо для конкретного, 'p,ul или p,li'- применимо для всех*/ 
+    color: rgb(243, 34, 34);  /*цвет шрифта*/ 
+    font-size: 20px;  /*шрифт содержания*/ 
+    line-height: 40px;   /*расстояния между строками*/ 
+    letter-spacing: 2px;  /*расстояния между буквами*/
+    border: 3px solid rgb(54, 25, 52);  /*окантовка шрифта*/ 
+    width: 400px;   /*ширина блока*/ 
+}
+img{
+    display: flex; width: 60vw;  /* */
+margin: 0 auto;  /*отступы снаружи блока(картинка посередине)*/
+}
+body{
+    width: 600px; /*ширина блока*/
+    margin: 0px;   /*отступы снаружи блока*/
+    background-color: rgb(228, 218, 166);  /*заливка*/
+    padding: 0 20px 20px 20px;  /*отступы внутри блока*/
+    border: 10px solid rgb(211, 199, 199) ;  /*граница показывающая где заканчивается элемент*/
+}
+a{
+    text-shadow: 2px 2px 2px rgb(245, 96, 10);
+    color: rgb(80, 127, 255);
+    font-size: 50px;
+
+}
+
+
+
