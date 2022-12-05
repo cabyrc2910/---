@@ -1,0 +1,38 @@
+Установить docker
+	https://docs.docker.com/engine/install/
+Установить docker-compose
+	https://docs.docker.com/compose/install/
+
+Переходим в терминале нужную папку где у нас находится файл docker-compose.yml,
+по умолчанию, если открыть терминал, то он запускается в корневой папке
+пользователя, в моем случае это /home/igor, полный путь до папки с сервером
+у меня это /home/igor/courses/web, значит чтобы попасть туда относительно
+/home/igor я должен набрать в терминале:
+
+cd courses/web/
+
+чтобы проверить, что мы там где надо выполняем в терминале
+
+ls -la
+Get-ChildItem
+
+и если в списке есть docker-compose.yml, то мы все сделали правильно, в моем
+случае у меня получился вот такой вывод:
+
+igor@igor-GE62-7RE:~/courses/web2/lesson4$ ls -la
+итого 28
+drwxrwxr-x 4 igor igor 4096 июн 30 11:33  .
+drwxrwxr-x 6 igor igor 4096 июн 30 09:58  ..
+drwxrwxrwx 4 igor igor 4096 июн 30 11:27  app
+drwxrwxrwx 5 igor igor 4096 мая 19 13:12  docker
+-rwxrwxrwx 1 igor igor  943 мая 19 13:15  docker-compose.yml
+-rw-rw-r-- 1 igor igor 1169 июн 30 11:36 'инструкция для docker.txt'
+-rw-rw-r-- 1 igor igor  165 июн 30 11:34 'как поработать с базой данных.txt'
+
+
+Запуск докера
+    sudo docker-compose up
+
+Остановка
+    ctrl+c
+    либо sudo docker-compose down
