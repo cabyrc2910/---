@@ -1,0 +1,21 @@
+html,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Jost', sans-serif;
+}
+
+#products {
+    display: grid;
+    grid-template-columns: repeat(3, 240px);
+    gap: 20px;
+}
+
+#products > div {
+    padding: 10px;
+    background: grey;
+}

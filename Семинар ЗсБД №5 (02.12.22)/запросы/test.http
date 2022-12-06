@@ -1,0 +1,33 @@
+GET https://example.com/comments/1
+
+###
+GET google.ru
+###
+
+GET https://nalog.ru
+
+###
+
+POST https://yandex.ru/search/?text=котики
+
+###
+
+GET https://yandex.ru
+
+###
+
+PUT https://reqres.in/api/users/2
+
+content-type: application/json
+{
+    "name": "morpheus",
+    "job": "zion resident"
+}
+
+###
+
+DELETE https://reqres.in/api/users/2
+
+###
+
+DELETE 

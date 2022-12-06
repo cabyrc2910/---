@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<catalog>
+    <book>
+        <title>камил видит руками</title>
+        <author>томаш малковски</author>
+        <pages>146</pages>
+        <year>2019</year>
+        <price>863 руб.</price>
+    </book>
+    <book>
+        <title>вероятности и неприятности</title>
+        <author>сергей самойленко</author>
+        <pages>134</pages>
+        <year>2022</year>
+        <price>1055 руб.</price>
+    </book>
+    <book>
+        <title>когда жизнь сбивает с ног</title>
+        <author>расс хэррис</author>
+        <pages>80</pages>
+        <year>2021</year>
+        <price>945 руб.</price>
+    </book>
+    <book>
+        <title>цветы в темноте</title>
+        <author>cестра данг нгием</author>
+        <pages>124</pages>
+        <year>2020</year>
+        <price>1027 руб.</price>
+    </book>
+    <book>
+        <title>стратегии перемен</title>
+        <author>джон коттер</author>
+        <pages>102</pages>
+        <year>2022</year>
+        <price>1418 руб.</price>
+    </book>
+</catalog>
